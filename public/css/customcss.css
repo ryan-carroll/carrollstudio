@@ -1,0 +1,9 @@
+.jumbotron {
+	background: no-repeat url(../images/carrollLogo.svg) center 
+}
+
+.customHide {
+	background: no-repeat url(../images/carrollThumb.svg);
+	width: 85px;
+}
+
