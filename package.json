@@ -1,0 +1,17 @@
+{
+  "name": "carrollstudio",
+  "version": "1.0.0",
+  "description": "carrollstudio llc",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "ryan",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.1",
+    "letsencrypt-express": "^2.0.6",
+    "pug": "^2.0.0-rc.4"
+  }
+}
